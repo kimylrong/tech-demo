@@ -1,4 +1,4 @@
-package com.zhongan.icare.open.service;
+package com.qiusuo.demo;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URL;
